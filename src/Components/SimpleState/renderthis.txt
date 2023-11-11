@@ -1,0 +1,11 @@
+import StepsV1 from "../src/Components/SimpleState/StepsV1";
+
+function App() {
+  return (
+    <div>
+      <StepsV1 />
+    </div>
+  );
+}
+
+export default App;
