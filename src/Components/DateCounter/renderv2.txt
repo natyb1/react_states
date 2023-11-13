@@ -1,0 +1,11 @@
+import DayCounterV2 from "./Components/DateCounter/DateCounterV2";
+
+const App = () => {
+  return (
+    <div>
+      <DayCounterV2 />
+    </div>
+  );
+};
+
+export default App;

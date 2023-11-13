@@ -1,0 +1,13 @@
+import DaateCounter from "./Components/DaateCounterV1/DaateCounter";
+
+function App() {
+  return (
+    <div>
+      <DaateCounter />
+      <DaateCounter />
+      <DaateCounter />
+    </div>
+  );
+}
+
+export default App;

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const Steps = () => {
+const DateCounter = () => {
   const [count, setCount] = useState(0);
   const [step, setStep] = useState(1);
 
@@ -37,4 +37,4 @@ const Steps = () => {
   );
 };
 
-export default Steps;
+export default DateCounter;
