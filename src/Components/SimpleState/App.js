@@ -1,4 +1,4 @@
-import StepsV1 from "../src/Components/SimpleState/StepsV1";
+import StepsV1 from "./StepsV1";
 
 function App() {
   return (
